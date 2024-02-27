@@ -1,5 +1,6 @@
 {:paths ["src" "resources"]
  :deps {babashka/fs {:mvn/version "0.5.20"}
+        babashka/process {:mvn/version "0.5.21"}
         clygments/clygments {:mvn/version "2.0.2"}
         no.cjohansen/powerpack {:mvn/version "2024.01.31"}
         org.clojure/clojure {:mvn/version "1.11.1"}
